@@ -9,7 +9,7 @@ It showcases SQL skills, data exploration, and analytical thinking.
 ## 📂 Project Structure
 | File | Description |
 |------|-------------|
-| `pizza_sales excel file.xlsx` | Raw sales dataset. |
+| `pizza_sales excel file.xlsx` |Sales dataset & dashboard. |
 | `Sql queris pizza.sql` | SQL queries used for analysis. |
 | `Pizza Sales SQL Query.docx` | Documented SQL queries and insights. |
 
