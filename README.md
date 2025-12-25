@@ -30,9 +30,13 @@ It showcases SQL skills, data exploration, and analytical thinking.
 
 ---
 
+## Ms Excel Dashboard preview
+<img width="1646" height="922" alt="Pizza " src="https://github.com/user-attachments/assets/5663c06e-af9b-4e1c-973f-c2f84e47dd2e" />
+
+---
+
 ## 🚀 Future Enhancements
 - Add visual dashboards (Power BI / Tableau / Python)  
-- Include monthly, weekly, and hourly trend charts  
 - Add a complete PDF report and EDA notebook  
 
 ---
